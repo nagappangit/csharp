@@ -11,8 +11,8 @@ namespace MyApplication
       a = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Enter The Second Number: ");
       b =  Convert.ToInt32(Console.ReadLine());
-      Console.WriteLine("The Output is: ", Math.Pow(a, b));
-      Console.WriteLine(Math.Pow(a, b)); // math power
+      Console.WriteLine("The Output is: ");
+      Console.WriteLine(Math.Pow(a, b));
     }   
     static void Main(string[] args)
     {
