@@ -1,7 +1,8 @@
 //C# Methods
 using System;
 namespace MyApplication
-{  class csharpmethods
+{  
+  class csharpmethods
   {
     static void MyMethod()
     {
