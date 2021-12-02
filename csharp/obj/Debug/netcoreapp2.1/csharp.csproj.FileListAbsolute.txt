@@ -1,0 +1,11 @@
+D:\Java Scripts Works\csharp\bin\Debug\netcoreapp2.1\csharp.deps.json
+D:\Java Scripts Works\csharp\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.json
+D:\Java Scripts Works\csharp\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.dev.json
+D:\Java Scripts Works\csharp\bin\Debug\netcoreapp2.1\csharp.dll
+D:\Java Scripts Works\csharp\bin\Debug\netcoreapp2.1\csharp.pdb
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.csprojAssemblyReference.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.csproj.CoreCompileInputs.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfoInputs.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfo.cs
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.dll
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\csharp.pdb
