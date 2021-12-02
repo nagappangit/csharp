@@ -2,7 +2,7 @@
 using System;
 namespace MyApplication
 {  
-  class Csharpmethods
+  class CsharpMethods
   {
     static void MyMethod()
     {
