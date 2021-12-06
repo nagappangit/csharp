@@ -1,7 +1,7 @@
 using System;
 namespace MyApplication
 {
-    class MyClass
+    class MyFirstclass
     {
         static void Main(string[] args)
         {
