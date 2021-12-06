@@ -3,7 +3,7 @@ namespace MyApplication
 {
     class MyFirstclass
     {
-        static void SyntaxMain(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Welcome Indoa");
         }
