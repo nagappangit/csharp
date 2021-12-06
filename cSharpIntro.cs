@@ -13,7 +13,7 @@ namespace cSharpIntro
 {
     class CSharpIntro
     {
-        static void Main(string[] args)
+        static void IntroMain(string[] args)
         {
             Console.WriteLine("Wlecome C#.NET");
         }

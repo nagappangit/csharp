@@ -14,7 +14,7 @@ namespace MyApplication
       Console.WriteLine("The Output is: ");
       Console.WriteLine(Math.Pow(a, b));
     }   
-    static void Main(string[] args)
+    static void MyMain(string[] args)
     {
       MyMethod();
     }
