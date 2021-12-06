@@ -1,7 +1,7 @@
 using System;
-namespace MyApplication
+namespace CsharpSynatx
 {
-    class MyFirstclass
+    class CsharpSynatx
     {
         static void Main(string[] args)
         {

@@ -1,10 +1,10 @@
 //C# Methods
 using System;
-namespace MyApplication
+namespace CsharpMethods
 {  
   class CsharpMethods
   {
-    static void MyMethod()
+    static void CsharpMethods()
     {
       int a,b;
       Console.WriteLine("Enter The First Number: ");
@@ -16,7 +16,7 @@ namespace MyApplication
     }   
     static void Main(string[] args)
     {
-      MyMethod();
+      CsharpMethods();
     }
   }
 }

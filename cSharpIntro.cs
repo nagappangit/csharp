@@ -9,9 +9,9 @@
 //3. Language Independent (That Means Cross Language Reusablity)
 //c#
 using System;
-namespace cSharpIntro
+namespace CsharpIntro
 {
-    class CSharpIntro
+    class CsharpInro
     {
         static void Main(string[] args)
         {
