@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Java Scripts Works\\Java Scripts Works.csproj",
+      "projectUniqueName": "D:\\Java Scripts Works\\csharp\\Java Scripts Works.csproj",
       "projectName": "Java Scripts Works",
-      "projectPath": "D:\\Java Scripts Works\\Java Scripts Works.csproj",
+      "projectPath": "D:\\Java Scripts Works\\csharp\\Java Scripts Works.csproj",
       "packagesPath": "C:\\Users\\Aztec-I\\.nuget\\packages\\",
-      "outputPath": "D:\\Java Scripts Works\\obj\\",
+      "outputPath": "D:\\Java Scripts Works\\csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

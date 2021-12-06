@@ -9,3 +9,9 @@ D:\Java Scripts Works\obj\Debug\netcoreapp2.1\Java Scripts Works.AssemblyInfoInp
 D:\Java Scripts Works\obj\Debug\netcoreapp2.1\Java Scripts Works.AssemblyInfo.cs
 D:\Java Scripts Works\obj\Debug\netcoreapp2.1\Java Scripts Works.dll
 D:\Java Scripts Works\obj\Debug\netcoreapp2.1\Java Scripts Works.pdb
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.csprojAssemblyReference.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.csproj.CoreCompileInputs.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.AssemblyInfoInputs.cache
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.AssemblyInfo.cs
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.dll
+D:\Java Scripts Works\csharp\obj\Debug\netcoreapp2.1\Java Scripts Works.pdb
