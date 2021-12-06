@@ -1,3 +1,4 @@
+using Internal;
 //C#.NET Tutorial 
 //csharp introduction
 //dont have any full form for .net, this is simply we called as a software product. it's come from microsoft
@@ -14,7 +15,7 @@ namespace cSharpIntro
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Wlecome C#.NET");
         }
     }
 }
